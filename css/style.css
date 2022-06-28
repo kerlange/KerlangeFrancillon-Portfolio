@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(180deg, rgba(184, 123, 167, 0) 0%, #A4C9DE 45.38%, #E09178 88.77%);
+}
+.eu{
+    position: fixed;
+    top: 0;
+    margin-left: 750px;
+}
+
+h1{
+        color: rgba(0, 0, 0, 0.7);
+        font-family: 'Oswald';
+        font-weight: 400;
+        font-size: 100px;
+        line-height: 148px;
+        position: absolute;
+        padding: 200px 700px 0px 141px;
+}
+
+h5{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 74px;
+    position: absolute;
+    left: 435px;
+    top: 461px;
+}
+
+.linha1{
+    padding: 550px 912px 0px 170px;
+}
+
+.sobre__mim,
+.formacao,
+.softwares{
+    padding: 69px 698px 0px 141px;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 74px;
+    padding-bottom: 65px;
+}
+
+
+p{
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 27px;
+    padding: 0px 0px 20px 0px;
+}
+
+p strong{
+    color: #E9805F;
+}
+
+.linha2,
+.linha3,
+.linha4{
+    padding: 70px 912px 0px 170px;
+}
+
+li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+h3{
+    font-family: 'Oswald',sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    padding: 130px 0px 65px 250px;
+}
+
+ul{
+    text-decoration: none;
+}
+
+.info ul{
+    display: flex;
+    align-items: left;
+    list-style: none;
+    gap: 100px;
+    margin: 20px 0px 65px 190px;
+}
